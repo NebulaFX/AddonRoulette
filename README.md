@@ -16,5 +16,5 @@ There is currently no way to bypass Captcha, so it gives `20 seconds` to complet
 4) Open AddonRoulette-master and open `@Main_Script.py`
 5) Change Line12 `YOUR LOCATION HERE` to the file location of ChromeDriver
 6) Then open `Info.py` and change the credentials
-7) Run `Install.bat` (Ensure you have pip installed) [pip install -r requirments]
+7) Run `Install.bat` (Ensure you have pip installed) [pip install -r requirements]
 8) Launch `@Main_Script.py`
