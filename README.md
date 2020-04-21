@@ -1,6 +1,9 @@
 # Automatic Roulette Script `Addon.to`
 Script that automates the process for gambling on `Addon.to`
 
+**Requirements**
+1) PIP
+
 **Installation**
 
 1) Download and extract `AddonRoulette-master`
