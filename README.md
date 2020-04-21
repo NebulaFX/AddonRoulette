@@ -4,8 +4,10 @@ Script that automates the process for gambling on `Addon.to`
 **Additional Information**
 There is currently no way to bypass Captcha, so it gives `20 seconds` to complete the captcha before resuming the script. Ensure you have it completed in this timeframe, or restart the script. (Increase it if you need too)
 
+
 **Requirements**
 1) Pip (https://www.liquidweb.com/kb/install-pip-windows/)
+2) Chrome version 81 (3 Dots > help > about google chrome
 
 **Installation**
 1) Download the master and extract `Addonroulette-master`
