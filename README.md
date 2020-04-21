@@ -1,2 +1,5 @@
 # Automatic Roulette Script `Addon.to`
-Automates the process for addon's roulette game
+Script that automates the process for gambling on `Addon.to`
+
+#Installation
+wdada
