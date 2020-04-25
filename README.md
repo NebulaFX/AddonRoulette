@@ -3,6 +3,7 @@ Script that automates the process for gambling on `Addon.to`
 
 **Additional Information**
 There is currently no way to bypass Captcha, so it gives `20 seconds` to complete the captcha before resuming the script. Ensure you have it completed in this timeframe, or restart the script. (Increase it if you need too)
+(Can buy tokens/keys online if needed)
 
 
 **Requirements**
